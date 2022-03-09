@@ -1,0 +1,8 @@
+﻿  sample.cpp
+C:\Users\Nicho\OneDrive - Danmarks Tekniske Universitet\Bachelor IT-elektronik DTU\5. semester\CS450\Assignment4 - lighting\Sample2017\sample.cpp(305,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nicho\OneDrive - Danmarks Tekniske Universitet\Bachelor IT-elektronik DTU\5. semester\CS450\Assignment4 - lighting\Sample2017\sample.cpp(307,29): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+C:\Users\Nicho\OneDrive - Danmarks Tekniske Universitet\Bachelor IT-elektronik DTU\5. semester\CS450\Assignment4 - lighting\Sample2017\sample.cpp(308,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Nicho\OneDrive - Danmarks Tekniske Universitet\Bachelor IT-elektronik DTU\5. semester\CS450\Assignment4 - lighting\Sample2017\sample.cpp(885,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nicho\OneDrive - Danmarks Tekniske Universitet\Bachelor IT-elektronik DTU\5. semester\CS450\Assignment4 - lighting\Sample2017\sample.cpp(1266,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Nicho\OneDrive - Danmarks Tekniske Universitet\Bachelor IT-elektronik DTU\5. semester\CS450\Assignment4 - lighting\Sample2017\Debug\Sample.exe
